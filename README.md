@@ -1,4 +1,4 @@
-~This is my simple Spring Boot web application, which uses Thymeleaf to display a greeting message and an image.~
+\This is my simple Spring Boot web application, which uses Thymeleaf to display a greeting message and an image./
 
 
 
